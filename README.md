@@ -1,5 +1,10 @@
 # Toro Net
 
+
+Per Ticket # 1 ,  a have Milestone Diagram has been provided that illustrates the progress made during the course of Toro-net, from its Inception to Submission to the professor.
+Reference Ticket # 1 for further instructions.
+-GE
+
 ## Getting started with VirtualBox
 Fork the repo then clone it to your local machine.
 ```
@@ -11,7 +16,7 @@ Change your directory into the dir on your VirtualBox Ubuntu virtual machine.
 cd toro-net
 ```
 
-Create .env file. Add a `.env` file with your PORT, MONGO_URI, 
+Create .env file. Add a `.env` file with your PORT, MONGO_URI,
 [GITHUB_ID, GITHUB_SECRET and APP_URL](https://github.com/jaredhanson/passport-github) like this:
 
 ***** For Frontend Team only *****
@@ -35,7 +40,7 @@ bash dev-env.sh
 Install node packages with npm.  
 ```
 npm install
-``` 
+```
 
 Build and watch for changes.  
 ```
