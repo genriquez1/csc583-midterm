@@ -1,7 +1,7 @@
 # Toro Net
 
 
-Per Ticket # 1 ,  a have Milestone Diagram has been provided that illustrates the progress made during the course of Toro-net, from its Inception to Submission to the professor.
+Per Ticket # 1 ,  a Milestone Diagram has been provided that illustrates the progress made during the course of Toro-net, from its Inception to Submission to the professor.
 Reference Ticket # 1 for further instructions.
 -GE
 
